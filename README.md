@@ -1,5 +1,12 @@
 # devkb-mobile
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/devkb-mobile/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/devkb-mobile/actions)
+![License](https://img.shields.io/github/license/yksanjo/devkb-mobile)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/devkb-mobile)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/devkb-mobile)
+
 ## Detailed Description
 
 devkb-mobile is maintained as an industry-grade software project with production-ready engineering practices.  
